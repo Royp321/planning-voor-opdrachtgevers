@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 245 80" width="245" height="80">
+  <g>
+    <!-- Background for logo -->
+    <rect width="245" height="80" fill="white"/>
+    
+    <!-- Spar-Tec text -->
+    <text transform="translate(10 45)" font-family="Arial, sans-serif" font-size="26" font-weight="bold">
+      <tspan fill="#008037">SPAR</tspan>
+      <tspan fill="#333">-</tspan>
+      <tspan fill="#008037">TEC</tspan>
+    </text>
+    
+    <!-- Green line underneath -->
+    <rect x="10" y="55" width="225" height="3" fill="#008037"/>
+    
+    <!-- Small tagline -->
+    <text transform="translate(10 70)" font-family="Arial, sans-serif" font-size="10" fill="#333">
+      <tspan>Installation Solutions</tspan>
+    </text>
+  </g>
+</svg>
