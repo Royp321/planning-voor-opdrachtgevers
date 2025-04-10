@@ -101,3 +101,10 @@
     "bufferutil": "^4.0.8"
   }
 }
+{
+  "scripts": {
+    "dev": "vite dev",          // Voor development
+    "build": "vite build",      // Build voor productie
+    "preview": "vite preview"   // Preview na build (optioneel)
+  }
+}
